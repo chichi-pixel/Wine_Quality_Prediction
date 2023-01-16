@@ -7,7 +7,8 @@ You can find detailed information about the Wine Quality Dataset and different c
 
                                       ----->>>>> https://www.kaggle.com/datasets/rajyellow46/wine-quality <<<<<-----
               
-              ![Wine Quality](https://user-images.githubusercontent.com/60243643/212652703-020d4d08-fb29-421b-ae7a-73f6fe547dbe.jpg)
+![Wine Quality](https://user-images.githubusercontent.com/60243643/212652703-020d4d08-fb29-421b-ae7a-73f6fe547dbe.jpg)
+
 
 
 Corresponding to the other coding examples, in this dataset I have focused especially on the data visualization part. 
@@ -23,16 +24,16 @@ Recommendation Link for more logistic regression: https://realpython.com/logisti
 Recommendation Link for Wine Quality: Winemaking Barrel Trial: Free SO2 & Potential Wine Quality Impacts
                 ---->>> https://www.barrelwise.ca/blog/free-so2-variance-in-barrels-implications-for-wine-quality <<<---
                 
-                ![barrelwisephoto](https://user-images.githubusercontent.com/60243643/212654463-8180e63d-f109-46f6-9790-7a2a082185eb.jpg)
+![barrelwisephoto](https://user-images.githubusercontent.com/60243643/212654463-8180e63d-f109-46f6-9790-7a2a082185eb.jpg)
 
 About ChatGPT: ChatGPT is a chatbot launched by OpenAI in November 2022. It is built on top of OpenAI's GPT-3 family of large language models, 
 and is fine-tuned with both supervised and reinforcement learning techniques. (Wikipedia)
 
                                         ------>>>>>  https://openai.com/blog/chatgpt/  <<<<<------
 
-                ![C1](https://user-images.githubusercontent.com/60243643/212655820-1cdd1f47-7b92-4783-8d94-efef646fede3.jpg)
+![C1](https://user-images.githubusercontent.com/60243643/212655820-1cdd1f47-7b92-4783-8d94-efef646fede3.jpg)
                 
-                ![openAI chatgpt](https://user-images.githubusercontent.com/60243643/212656336-563a12af-e86e-4ae8-8177-17d6e106a39d.jpg)
+![openAI chatgpt](https://user-images.githubusercontent.com/60243643/212656336-563a12af-e86e-4ae8-8177-17d6e106a39d.jpg)
 
                 
 
@@ -43,6 +44,8 @@ Ausführliche Informationen über den Weinqualitätsdatensatz und die verschiede
                                       --->>>>> https://www.kaggle.com/datasets/rajyellow46/wine-quality <<<<<---
                 
 Parallel zu anderen Kodierungsbeispielen habe ich mich bei diesem Datensatz besonders auf die Visualisierung der Daten konzentriert. 
+
+![openAI chatgpt](https://user-images.githubusercontent.com/60243643/212657473-f2abe464-f25f-4534-a7fb-b575f64c7ea8.jpg)
 
 Der Bereich Datenvisualisierung ist sehr wichtig für die Visualisierung der Datenanalyse. Insbesondere die Bibliotheken seaborn und matplotlib ermöglichen es uns, ein anschaulicheres Bild zu erhalten, indem wir verschiedene Visualisierungen verwenden.
 
