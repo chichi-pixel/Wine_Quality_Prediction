@@ -35,7 +35,10 @@ and is fine-tuned with both supervised and reinforcement learning techniques. (W
                 
 ![openAI chatgpt](https://user-images.githubusercontent.com/60243643/212656336-563a12af-e86e-4ae8-8177-17d6e106a39d.jpg)
 
-                
+Liebe Grüße
+
+HaTiCe Peucker
+
 
 Liebe/-r Code Hunters :)
 
@@ -44,8 +47,6 @@ Ausführliche Informationen über den Weinqualitätsdatensatz und die verschiede
                                       --->>>>> https://www.kaggle.com/datasets/rajyellow46/wine-quality <<<<<---
                 
 Parallel zu anderen Kodierungsbeispielen habe ich mich bei diesem Datensatz besonders auf die Visualisierung der Daten konzentriert. 
-
-![openAI chatgpt](https://user-images.githubusercontent.com/60243643/212657473-f2abe464-f25f-4534-a7fb-b575f64c7ea8.jpg)
 
 Der Bereich Datenvisualisierung ist sehr wichtig für die Visualisierung der Datenanalyse. Insbesondere die Bibliotheken seaborn und matplotlib ermöglichen es uns, ein anschaulicheres Bild zu erhalten, indem wir verschiedene Visualisierungen verwenden.
 
@@ -62,3 +63,10 @@ Empfehlungslink für Wine Quality: Winemaking Barrel Trial: Free SO2 & Potential
 Empfehlungslink für ChatGPT: 
 
                                       ------>>>>>  https://openai.com/blog/chatgpt/  <<<<<------
+                                      
+![chatgptgeeksforgeeks](https://user-images.githubusercontent.com/60243643/212658615-63a9d364-70f3-45ee-8bb6-507b6b3ce1ff.jpg)
+
+
+Liebe Grüße
+
+HaTiCe Peucker
