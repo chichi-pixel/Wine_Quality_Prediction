@@ -1,5 +1,5 @@
 # Wine_Quality_Prediction
-#python #matplotlib #seaborn #numpy #pandas #logisticregression #accuracy #ChatGPT #openai
+ #ChatGPT #openai #python #matplotlib #seaborn #numpy #pandas #logisticregression #accuracy
 
 Dear Code Hunters,
 
