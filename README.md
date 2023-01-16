@@ -9,6 +9,7 @@ You can find detailed information about the Wine Quality Dataset and different c
               
 ![Wine Quality](https://user-images.githubusercontent.com/60243643/212652703-020d4d08-fb29-421b-ae7a-73f6fe547dbe.jpg)
 
+![sample_photo](https://user-images.githubusercontent.com/60243643/212662416-b79a1638-a10e-482b-a6bf-7b586d4b2dac.jpg)
 
 
 Corresponding to the other coding examples, in this dataset I have focused especially on the data visualization part. 
