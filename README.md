@@ -35,7 +35,7 @@ and is fine-tuned with both supervised and reinforcement learning techniques. (W
                 
 ![openAI chatgpt](https://user-images.githubusercontent.com/60243643/212656336-563a12af-e86e-4ae8-8177-17d6e106a39d.jpg)
 
-Liebe Grüße
+Best Regards,
 
 HaTiCe Peucker
 
